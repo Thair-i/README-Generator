@@ -25,3 +25,4 @@ After using the node index.js command, running the app is simple! You will be gi
 
 https://user-images.githubusercontent.com/110577068/196345367-9d765da0-389e-44b4-8f49-4b69e34a76d0.mov
 
+![Screen Shot 2022-10-17 at 10 45 54 PM](https://user-images.githubusercontent.com/110577068/196345811-4cccd3b3-01b8-4234-ae56-9a42f2ef9ee5.png)
