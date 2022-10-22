@@ -49,6 +49,7 @@ After using the node index.js command, running the app is simple! You will be gi
 
 demonstration video:[(https://youtu.be/b0he0K9Btzw)]
 
+image
 
 ![Screen Shot 2022-10-22 at 1 29 47 PM](https://user-images.githubusercontent.com/110577068/197361854-8fb4ade3-c595-4da2-8d02-91e8b54aa054.png)
 
